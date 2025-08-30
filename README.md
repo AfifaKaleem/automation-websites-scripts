@@ -1,1 +1,33 @@
-I developed and maintained core backend systems and RESTful APIs that powered real-time features such as livestreaming, direct messaging, and user interactions. I integrated third-party APIs from platforms e.g.: YouTube, TikTok, Facebook, Snap Chat, X.com to automate complex social media workflows and content ingestion. To ensure scalability and reliability, I implemented caching, load balancing, and performance optimization strategies, maintaining a stable platform and delivering seamless user experiences in high-traffic environments.
+Automation Website Scripts ⚡
+
+This repository contains automation scripts built with Node.js and Playwright for various websites. Each script is designed to simplify repetitive tasks such as logging in, posting content, searching users, sending messages, and handling different workflows across multiple platforms.
+
+🚀 Features
+
+Cross-platform automation using Playwright.
+
+Node.js backend scripts for seamless integration.
+
+Covers a variety of tasks like login, posting, messaging, searching, and data extraction.
+
+Modular scripts for different websites, easy to extend and customize.
+
+Headless and non-headless browser support.
+
+🛠 Tech Stack
+
+Node.js – Backend scripting.
+
+Playwright – Browser automation.
+
+📌 Use Cases
+
+Automating social media tasks.
+
+Content posting and scheduling.
+
+Direct messaging automation.
+
+User search and data scraping.
+
+Streamlined workflows for multiple platforms.
