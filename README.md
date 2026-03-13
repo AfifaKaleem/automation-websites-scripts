@@ -1,8 +1,8 @@
-Automation Website Scripts ⚡
+## Automation Website Scripts ⚡
 
 This repository contains automation scripts built with Node.js and Playwright for various websites. Each script is designed to simplify repetitive tasks such as logging in, posting content, searching users, sending messages, and handling different workflows across multiple platforms.
 
-🚀 Features
+# 🚀 Features
 
 Cross-platform automation using Playwright.
 
@@ -14,13 +14,13 @@ Modular scripts for different websites, easy to extend and customize.
 
 Headless and non-headless browser support.
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 Node.js – Backend scripting.
 
 Playwright – Browser automation.
 
-📌 Use Cases
+# 📌 Use Cases
 
 Automating social media tasks.
 
